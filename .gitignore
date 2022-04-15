@@ -1,0 +1,25 @@
+#for django2.0 blog project
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+*$py.class
+.cache
+
+.env
+env/
+.venv
+venv/
+
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+.vscode/
+.history/
+*.vsix
+
